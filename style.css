@@ -1,0 +1,21 @@
+body{
+    background-color: #EA6814;
+}
+@font-face{ 
+    font-family: 'S-CoreDream-3Light';
+    src: url('./font/S-Core_Dream_OTF/SCDream4.otf') format('OpenType');
+}
+@font-face{ 
+    font-family: 'S-CoreDream-8heady';
+    src: url('./font/S-Core_Dream_OTF/SCDream8.otf') format('OpenType');
+}
+@font-face{ 
+    font-family: 'Canbera';
+    src: url('./font/canbera/canbera.otf') format('OpenType');
+}
+/*-----main page-----*/
+.main_img{
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+}
