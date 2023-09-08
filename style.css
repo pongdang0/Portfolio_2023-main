@@ -1,9 +1,15 @@
 body{
     background-color: #EA6814;
+    padding:0px;
+    margin:0px;
 }
 @font-face{ 
     font-family: 'S-CoreDream-3Light';
     src: url('./font/S-Core_Dream_OTF/SCDream4.otf') format('OpenType');
+}
+@font-face{ 
+    font-family: 'S-CoreDream-5heady';
+    src: url('./font/S-Core_Dream_OTF/SCDream5.otf') format('OpenType');
 }
 @font-face{ 
     font-family: 'S-CoreDream-8heady';
@@ -14,8 +20,59 @@ body{
     src: url('./font/canbera/canbera.otf') format('OpenType');
 }
 /*-----main page-----*/
-.main_img{
+.sunset_bubble_img{
+    position: absolute;
+    left: 500px;
+    top: 140px;
     width: 100%;
-    max-width: 1000px;
     height: auto;
+    z-index: 1;
+}
+.main_img{
+    position: relative;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin: 600px 0 0 0;
+    z-index: 0;
+}
+.main_text{
+    position: relative;
+    z-index: 4;
+}
+.main_eye_img{
+    font-family:'S-CoreDream-3Light';
+    font-size: 30px;
+    float: right;
+    border-bottom: 5px solid #000;
+    padding: 0 60px 20px 60px;
+    letter-spacing: 2px;
+    margin: -100px 0 0 0;
+}
+.main_name{
+    font-family: 'S-CoreDream-5heady';
+    font-size: 60px;
+    text-align: right;
+    display: block;
+    margin: -220px 640px 0 0;
+    letter-spacing: 5px;
+}
+
+.me_img{
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin: 58px 0 0 0;
+    display: block;
+}
+.my_picture{
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin: 1500px 0 0 600px;
+    position: relative;
+    z-index: 3;
 }
