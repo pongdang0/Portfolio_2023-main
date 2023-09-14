@@ -27,27 +27,11 @@ body{
     }
 }
 /*---media quary---*/
-@media screen and (min-width: 1800px) {
-    .sunset_bubble{
-        width: 100%;
-        height: auto;
-        overflow: hidden;
-        position: fixed;
-        margin: 4% 0 0 4%;
-    } 
-}
 @media screen and (min-width: 2600px) {
     .main_img{
         width: 100%;
         height: auto;
         overflow: hidden;
-    }
-    .sunset_bubble{
-        width: 50%;
-        height: auto;
-        overflow: hidden;
-        position: fixed;
-        margin: 11% 0 0 11%;
     }
 }
 @media screen and (max-width: 3700px) {
@@ -281,18 +265,15 @@ body{
     text-align: center;
 }
 .sunset_bubble{
-    width: 30%;
+    width: 50%;
     height: auto;
     overflow: hidden;
-    position: fixed;
-    z-index: 1;
 }
 .sunset_bubble img{
-    max-width: 30%;
+    max-width: 50%;
     height: auto;
-    display: inline-block;
-    margin: -18% 0 0 28%;
-    position: fixed;
+    display: block;
+    margin: 18% 0 0 28%;
 }
 .main_text{
     margin: 0 0 0 35px;
@@ -493,28 +474,17 @@ body{
     height: auto;
     display: inline;
     margin: -52% 0 0 49%;
-    position: relative;
-    z-index: 4;
 }
 /*---black background---*/
 .black_background{
     margin: -160px 0 0 0;
     border: 1700px solid #000;
-    position: relative;
-    z-index: 3;
-}
-.black_all{
-margin: 2450px 0 0 0;
-
 }
 .black_title_1{
     width: 100%;
     height: 100vh;
     text-align: center;
     overflow: hidden;
-    margin: -5550px 0 0 -280px;
-    position: relative;
-    z-index: 6;
     background-size: cover;
 }
 .black_img_1{
@@ -523,8 +493,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -930px 0 0 96px;
-    position: relative;
-    z-index: 7;
     background-size: cover;
 }
 .black_img_2{
@@ -533,8 +501,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -255px 0 0 345px;
-    position: relative;
-    z-index: 8;
     background-size: cover;
 }
 .black_img_3{
@@ -543,8 +509,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -680px 0 0 96px;
-    position: relative;
-    z-index: 7;
     background-size: cover;
 }
 .black_img_4{
@@ -553,8 +517,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -930px 0 0 347px;
-    position: relative;
-    z-index: 7;
     background-size: cover;
 }
 .black_img_5{
@@ -563,8 +525,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -680px 0 0 -407px;
-    position: relative;
-    z-index: 8;
     background-size: cover;
 }
 .black_title_2{
@@ -573,8 +533,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -935px 0 0 95px;
-    position: relative;
-    z-index: 9;
     background-size: cover;
 }
 .black_img_6{
@@ -583,8 +541,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -676px 0 0 -407px;
-    position: relative;
-    z-index: 9;
     background-size: cover;
 }
 .black_img_7{
@@ -593,8 +549,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -933px 0 0 -157px;
-    position: relative;
-    z-index: 10;
     background-size: cover;
 }
 .black_img_8{
@@ -603,8 +557,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -931px 0 0 97px;
-    position: relative;
-    z-index: 11;
     background-size: cover;
 }
 .black_img_9{
@@ -613,8 +565,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -680px 0 0 -155px;
-    position: relative;
-    z-index: 11;
     background-size: cover;
 }
 .black_img_10{
@@ -623,8 +573,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -931px 0 0 348px;
-    position: relative;
-    z-index: 12;
     background-size: cover;
 }
 .black_title_3{
@@ -633,8 +581,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -683px 0 0 219px;
-    position: relative;
-    z-index: 13;
     background-size: cover;
 }
 .black_img_11{
@@ -643,8 +589,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -678px 0 0 -155px;
-    position: relative;
-    z-index: 14;
     background-size: cover;
 }
 .black_img_12{
@@ -653,8 +597,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -931px 0 0 95px;
-    position: relative;
-    z-index: 15;
     background-size: cover;
 }
 .black_img_13{
@@ -663,8 +605,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -931px 0 0 345px;
-    position: relative;
-    z-index: 16;
     background-size: cover;
 }
 .black_title_4{
@@ -673,8 +613,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -684px 0 0 -281px;
-    position: relative;
-    z-index: 17;
     background-size: cover;
 }
 .black_img_14{
@@ -683,8 +621,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -928px 0 0 95px;
-    position: relative;
-    z-index: 18;
     background-size: cover;
 }
 .black_img_15{
@@ -693,8 +629,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -928px 0 0 345px;
-    position: relative;
-    z-index: 19;
     background-size: cover;
 }
 .black_img_16{
@@ -703,8 +637,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -683px 0 0 -155px;
-    position: relative;
-    z-index: 20;
     background-size: cover;
 }
 .black_title_5{
@@ -713,8 +645,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -933px 0 0 94px;
-    position: relative;
-    z-index: 21;
     background-size: cover;
 }
 .black_img_17{
@@ -723,8 +653,6 @@ margin: 2450px 0 0 0;
     text-align: center;
     overflow: hidden;
     margin: -678px 0 0 -155px;
-    position: relative;
-    z-index: 22;
     background-size: cover;
 }
 .black_img_18{
@@ -732,9 +660,7 @@ margin: 2450px 0 0 0;
     height: 100vh;
     text-align: center;
     overflow: hidden;
-    margin: -680px 0 0 94px;
-    position: relative;
-    z-index: 23;
+    margin: 280px 0 0 94px;
     background-size: cover;
 }
 /*---end page---*/
@@ -759,6 +685,19 @@ margin: 2450px 0 0 0;
     margin: 2% 0 0 10%;
 }
 .end_img img{
+    max-width: 80%;
+    height: auto;
+    display: inline;
+    text-align: center;
+}
+.end_logo{
+    width: 80%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+    margin: 2% 0 0 10%;
+}
+.end_logo img{
     max-width: 80%;
     height: auto;
     display: inline;
