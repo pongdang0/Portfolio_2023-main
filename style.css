@@ -268,30 +268,30 @@ body{
 }
 /*---main page---*/
 .main_img{
-    width: 100%;
+    width: 80%;
     height: auto;
     text-align: center;
     overflow: hidden;
-    margin: 30% 0 0 0;
+    margin: 16% 0 0 0;
 }
 .main_img img{
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
     display: inline;
     text-align: center;
 }
 .sunset_bubble{
-    width: 50%;
+    width: 30%;
     height: auto;
     overflow: hidden;
     position: fixed;
     z-index: 1;
 }
 .sunset_bubble img{
-    max-width: 50%;
+    max-width: 30%;
     height: auto;
     display: inline-block;
-    margin: -25% 0 0 28%;
+    margin: -18% 0 0 28%;
     position: fixed;
 }
 .main_text{
@@ -318,14 +318,14 @@ body{
     margin: 1% 0 0 60%;
 }
 .me{
-    width: 100%;
+    width: 80%;
     height: auto;
     text-align: center;
     overflow: hidden;
-    margin: -2% 0 0 -6%;
+    margin: -6% 0 0 -12%;
 }
 .me img{
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
     display: inline;
     text-align: center;
@@ -499,16 +499,20 @@ body{
 /*---black background---*/
 .black_background{
     margin: -160px 0 0 0;
-    border: 3000px solid #000;
+    border: 1700px solid #000;
     position: relative;
     z-index: 3;
+}
+.black_all{
+margin: 2450px 0 0 0;
+
 }
 .black_title_1{
     width: 100%;
     height: 100vh;
     text-align: center;
     overflow: hidden;
-    margin: -5250px 0 0 -450px;
+    margin: -5550px 0 0 -280px;
     position: relative;
     z-index: 6;
     background-size: cover;
@@ -518,7 +522,7 @@ body{
     height: auto;
     text-align: center;
     overflow: hidden;
-    margin: -1862px 0 0 192px;
+    margin: -930px 0 0 96px;
     position: relative;
     z-index: 7;
     background-size: cover;
@@ -528,7 +532,7 @@ body{
     height: 100vh;
     text-align: center;
     overflow: hidden;
-    margin: -1772px 0 0 622px;
+    margin: -255px 0 0 345px;
     position: relative;
     z-index: 8;
     background-size: cover;
@@ -538,7 +542,7 @@ body{
     height: 100vh;
     text-align: center;
     overflow: hidden;
-    margin: -1344px 0 0 192px;
+    margin: -680px 0 0 96px;
     position: relative;
     z-index: 7;
     background-size: cover;
@@ -548,8 +552,215 @@ body{
     height: 100vh;
     text-align: center;
     overflow: hidden;
-    margin: -1772px 0 0 620px;
+    margin: -930px 0 0 347px;
     position: relative;
     z-index: 7;
     background-size: cover;
+}
+.black_img_5{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -680px 0 0 -407px;
+    position: relative;
+    z-index: 8;
+    background-size: cover;
+}
+.black_title_2{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -935px 0 0 95px;
+    position: relative;
+    z-index: 9;
+    background-size: cover;
+}
+.black_img_6{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -676px 0 0 -407px;
+    position: relative;
+    z-index: 9;
+    background-size: cover;
+}
+.black_img_7{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -933px 0 0 -157px;
+    position: relative;
+    z-index: 10;
+    background-size: cover;
+}
+.black_img_8{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -931px 0 0 97px;
+    position: relative;
+    z-index: 11;
+    background-size: cover;
+}
+.black_img_9{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -680px 0 0 -155px;
+    position: relative;
+    z-index: 11;
+    background-size: cover;
+}
+.black_img_10{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -931px 0 0 348px;
+    position: relative;
+    z-index: 12;
+    background-size: cover;
+}
+.black_title_3{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -683px 0 0 219px;
+    position: relative;
+    z-index: 13;
+    background-size: cover;
+}
+.black_img_11{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -678px 0 0 -155px;
+    position: relative;
+    z-index: 14;
+    background-size: cover;
+}
+.black_img_12{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -931px 0 0 95px;
+    position: relative;
+    z-index: 15;
+    background-size: cover;
+}
+.black_img_13{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -931px 0 0 345px;
+    position: relative;
+    z-index: 16;
+    background-size: cover;
+}
+.black_title_4{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -684px 0 0 -281px;
+    position: relative;
+    z-index: 17;
+    background-size: cover;
+}
+.black_img_14{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -928px 0 0 95px;
+    position: relative;
+    z-index: 18;
+    background-size: cover;
+}
+.black_img_15{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -928px 0 0 345px;
+    position: relative;
+    z-index: 19;
+    background-size: cover;
+}
+.black_img_16{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -683px 0 0 -155px;
+    position: relative;
+    z-index: 20;
+    background-size: cover;
+}
+.black_title_5{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -933px 0 0 94px;
+    position: relative;
+    z-index: 21;
+    background-size: cover;
+}
+.black_img_17{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -678px 0 0 -155px;
+    position: relative;
+    z-index: 22;
+    background-size: cover;
+}
+.black_img_18{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: -680px 0 0 94px;
+    position: relative;
+    z-index: 23;
+    background-size: cover;
+}
+/*---end page---*/
+.end_name{
+    font-family: 'S-CoreDream-8heady';
+    text-align: center;
+    margin-top: -320px;
+    letter-spacing: 15px;
+    font-size: 15px;
+}
+.end_thank{
+    font-family: 'Canbera';
+    text-align: center;
+    font-size: 85px;
+    margin-top: 60px;
+}
+.end_img{
+    width: 80%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+    margin: 2% 0 0 10%;
+}
+.end_img img{
+    max-width: 80%;
+    height: auto;
+    display: inline;
+    text-align: center;
 }
