@@ -1,0 +1,246 @@
+@media screen and (max-width: 1500px) {
+    .main_img{
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+    }
+    .main_text{
+        margin: 0 0 0 35px;
+    }
+    .eyes{
+        display: block;
+        margin: -15% 0 0 60%;
+        padding: 0 0 6px 0;
+        border-bottom: 3px solid #000;
+    }
+    .eyes_text{
+        font-family: 'S-CoreDream-2Light';
+        font-size: 1rem;
+        display: inline;
+    }
+    .eyes_img{
+        display: inline;
+    }
+    .main_name{
+        font-family: 'S-CoreDream-5heady';
+        font-size: 20px;
+        letter-spacing: 5px;
+        margin: 1% 0 0 60%;
+    }
+}
+@media screen and (max-width: 3700px) {
+    .br_1 br{
+        display: inline-block;
+        content: " ";
+        padding: 0 2px;
+     }
+     .br_2 br{
+        display: inline-block;
+        content: " ";
+        padding: 0 2px;
+     }
+    .information_1{
+        font-family: 'S-CoreDream-8heady';
+        font-size: 30px;
+        background-color: #000;
+        color: #fff;
+        padding: 3px 8px 3px 8px;
+        border: 2px solid #000;
+        display: inline;
+        margin: 210px 0 6px 0;
+    }
+    .information_2{
+        font-family: 'S-CoreDream-8heady';
+        font-size: 30px;
+        background-color: #000;
+        color: #fff;
+        padding: 3px 8px 3px 8px;
+        border: 2px solid #000;
+        display: inline;
+        margin-bottom: 6px;
+    }
+    .information_3{
+        font-family: 'S-CoreDream-8heady';
+        font-size: 30px;
+        padding: 3px 6px 3px 6px;
+        border: 2px solid #000;
+        display: inline-block;
+    }
+    .information_4{
+        font-family: 'S-CoreDream-8heady';
+        font-size: 30px;
+        padding: 3px 6px 3px 6px;
+        border: 2px solid #000;
+        display: inline-block;
+        margin-bottom: 6px;
+    }
+    .information_5{
+        font-family: 'S-CoreDream-8heady';
+        font-size: 30px;
+        padding: 3px 6px 3px 6px;
+        border: 2px solid #000;
+        display: inline-block;
+    }
+}
+@media screen and (max-width: 3000px) {
+    .br_1 br{
+        display: inline-block;
+        content: " ";
+        padding: 0 2px;
+     }
+     .br_2 br{
+        display: inline-block;
+        content: " ";
+        padding: 0 2px;
+     }
+    .information_1{
+        font-family: 'S-CoreDream-8heady';
+        font-size: 30px;
+        background-color: #000;
+        color: #fff;
+        padding: 3px 8px 3px 8px;
+        border: 2px solid #000;
+        display: block;
+        margin: 210px 0 6px 0;
+    }
+    .information_2{
+        font-family: 'S-CoreDream-8heady';
+        font-size: 30px;
+        background-color: #000;
+        color: #fff;
+        padding: 3px 8px 3px 8px;
+        border: 2px solid #000;
+        display: inline-block;
+        margin-bottom: 6px;
+    }
+    .information_3{
+        font-family: 'S-CoreDream-8heady';
+        font-size: 30px;
+        padding: 3px 6px 3px 6px;
+        border: 2px solid #000;
+        display: inline-block;
+    }
+    .information_4{
+        font-family: 'S-CoreDream-8heady';
+        font-size: 30px;
+        padding: 3px 6px 3px 6px;
+        border: 2px solid #000;
+        display: inline-block;
+        margin-bottom: 6px;
+    }
+    .information_5{
+        font-family: 'S-CoreDream-8heady';
+        font-size: 30px;
+        padding: 3px 6px 3px 6px;
+        border: 2px solid #000;
+        display: inline-block;
+    }
+}
+@media screen and (max-width: 2600px) {
+.information_1{
+    font-family: 'S-CoreDream-8heady';
+    font-size: 30px;
+    background-color: #000;
+    color: #fff;
+    padding: 3px 8px 3px 8px;
+    border: 2px solid #000;
+    display: inline;
+    margin: 200px 0 6px 0;
+}
+.information_2{
+    font-family: 'S-CoreDream-8heady';
+    font-size: 30px;
+    background-color: #000;
+    color: #fff;
+    padding: 3px 8px 3px 8px;
+    border: 2px solid #000;
+    display: inline;
+    margin-bottom: 6px;
+}
+.information_3{
+    font-family: 'S-CoreDream-8heady';
+    font-size: 30px;
+    padding: 3px 6px 3px 6px;
+    border: 2px solid #000;
+    display: inline-block;
+}
+.information_4{
+    font-family: 'S-CoreDream-8heady';
+    font-size: 30px;
+    padding: 3px 6px 3px 6px;
+    border: 2px solid #000;
+    display: inline-block;
+    margin-bottom: 6px;
+}
+.information_5{
+    font-family: 'S-CoreDream-8heady';
+    font-size: 30px;
+    padding: 3px 6px 3px 6px;
+    border: 2px solid #000;
+    display: inline-block;
+}
+}
+@media screen and (max-width: 1900px) {
+    .information_1{
+        font-family: 'S-CoreDream-8heady';
+        font-size: 30px;
+        background-color: #000;
+        color: #fff;
+        padding: 3px 8px 3px 8px;
+        border: 2px solid #000;
+        display: inline;
+        margin: 90px 0 6px -190px;
+    }
+    .information_2{
+        font-family: 'S-CoreDream-8heady';
+        font-size: 30px;
+        background-color: #000;
+        color: #fff;
+        padding: 3px 8px 3px 8px;
+        border: 2px solid #000;
+        display: inline;
+        margin-bottom: 6px;
+    }
+    .information_3{
+        font-family: 'S-CoreDream-8heady';
+        font-size: 30px;
+        padding: 3px 6px 3px 6px;
+        border: 2px solid #000;
+        display: inline-block;
+        margin: 0 0 6px -190px;
+    }
+    .information_4{
+        font-family: 'S-CoreDream-8heady';
+        font-size: 30px;
+        padding: 3px 6px 3px 6px;
+        border: 2px solid #000;
+        display: inline-block;
+        margin-bottom: 6px;
+    }
+    .information_5{
+        font-family: 'S-CoreDream-8heady';
+        font-size: 30px;
+        padding: 3px 6px 3px 6px;
+        border: 2px solid #000;
+        display: inline-block;
+        margin: 0 0 55px -190px;
+    }
+}
+@media screen and (max-width: 1150px) {
+    .history{
+        margin: 0 auto 0 auto;
+        display: block;
+    }
+    .history_text{
+        display: inline-block;
+        font-size: 18px;
+    }
+    .main_title{
+        font-size: 10px;
+    }
+    .black_img_1 img{
+        background-size: contain;
+        width: 10vh;
+        height: 10vh;
+    }
+}
