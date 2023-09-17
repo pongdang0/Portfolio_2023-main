@@ -266,8 +266,8 @@ body{
 }
 /*---black background---*/
 .black_background{
-    margin: -5300px 0 380px 0;
-    border: 1750px solid #000;
+    margin: -5150px 0 380px 0;
+    border: 1600px solid #000;
     background-attachment: fixed;
 }
 .black_title_1{
@@ -285,7 +285,7 @@ body{
     overflow: hidden;
     background-size: cover;
     position: relative;
-    top: -305px;
+    top: -105px;
     left: 80px;
 }
 .black_img_2{
@@ -295,7 +295,7 @@ body{
     overflow: hidden;
     background-size: cover;
     position: relative;
-    top: -310px;
+    top: -110px;
     left: 281px;
 }
 .black_img_3{
@@ -305,8 +305,8 @@ body{
     overflow: hidden;
     background-size: cover;
     position: relative;
-    top: -316px;
-    left: 80px;
+    top: -716px;
+    left: -325px;
 }
 .black_img_4{
     width: 100%;
@@ -316,7 +316,7 @@ body{
     background-size: cover;
     position: relative;
     top: -320px;
-    left: -120px;
+    left: 80px;
 }
 .black_img_5{
     width: 100%;
@@ -325,7 +325,7 @@ body{
     overflow: hidden;
     background-size: cover;
     position: relative;
-    top: -1126px;
+    top: -926px;
     left: 280px;
 }
 .black_title_2{
@@ -343,8 +343,8 @@ body{
     overflow: hidden;
     background-size: cover;
     position: relative;
-    top: -737px;
-    left: -319px;
+    top: -537px;
+    left: 299px;
 }
 .black_img_7{
     width: 100%;
@@ -353,8 +353,8 @@ body{
     overflow: hidden;
     background-size: cover;
     position: relative;
-    top: -744px;
-    left: -119px;
+    top: -743px;
+    left: -120px;
 }
 .black_img_8{
     width: 100%;
@@ -376,22 +376,12 @@ body{
     top: -953px;
     left: -120px;
 }
-.black_img_10{
-    width: 100%;
-    height: auto;
-    text-align: center;
-    overflow: hidden;
-    background-size: cover;
-    position: relative;
-    top: -959px;
-    left: -324px;
-}
 .black_title_3{
     width: 100%;
     height: auto;
     text-align: center;
     position: relative;
-    top: -1164px;
+    top: -964px;
     left: 180px;
 }
 .black_img_11{
@@ -411,8 +401,8 @@ body{
     overflow: hidden;
     background-size: cover;
     position: relative;
-    top: -1375px;
-    left: -119px;
+    top: -1175px;
+    left: -318px;
 }
 .black_img_13{
     width: 100%;
@@ -439,8 +429,8 @@ body{
     overflow: hidden;
     background-size: cover;
     position: relative;
-    top: -1391px;
-    left: -118px;
+    top: -1591px;
+    left: 81px;
 }
 .black_img_15{
     width: 100%;
@@ -449,16 +439,16 @@ body{
     overflow: hidden;
     background-size: cover;
     position: relative;
-    top: -1794px;
-    left: 82px;
+    top: -1599px;
+    left: 282px;
 }
 .black_title_5{
     width: 100%;
     height: auto;
     text-align: center;
     position: relative;
-    top: -1809px;
-    left: 79px;
+    top: -2009px;
+    left: 80px;
 }
 .black_img_16{
     width: 100%;
@@ -467,7 +457,7 @@ body{
     overflow: hidden;
     background-size: cover;
     position: relative;
-    top: -1204px;
+    top: -1404px;
     left: 79px;
 }
 .black_img_17{
@@ -477,8 +467,8 @@ body{
     overflow: hidden;
     background-size: cover;
     position: relative;
-    top: -1816px;
-    left: -120px;
+    top: -2412px;
+    left: -119px;
 }
 .black_img_18{
     width: 100%;
@@ -487,7 +477,7 @@ body{
     overflow: hidden;
     background-size: cover;
     position: relative;
-    top: -2219px;
+    top: -2419px;
     left: 280px;
 }
 /*---end page---*/
