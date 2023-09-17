@@ -181,6 +181,23 @@
         height: 1px;
         background-color: #000;
     }
+    .cat{
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+        display: inline;
+    }
+    .cat img{
+        max-width: 50%;
+        height: auto;
+        display: inline;
+        margin: -39% 0 0 49%;
+    }
+    .black_background{
+        margin: -5230px 0 380px 0;
+        border: 1500px solid #000;
+        background-attachment: fixed;
+    }
 }
 @media screen and (max-width: 600px) {
     .information_1 , .information_2 , .information_3 , .information_4 , .information_5{
@@ -238,5 +255,22 @@
         width:100%;
         height: 1px;
         background-color: #000;
+    }
+    .cat{
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+        display: inline;
+    }
+    .cat img{
+        max-width: 50%;
+        height: auto;
+        display: inline;
+        margin: -59% 0 0 49%;
+    }
+    .black_background{
+        margin: -5190px 0 380px 0;
+        border: 1500px solid #000;
+        background-attachment: fixed;
     }
 }
