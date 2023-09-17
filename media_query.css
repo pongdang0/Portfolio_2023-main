@@ -220,6 +220,21 @@
         border: 1500px solid #000;
         background-attachment: fixed;
     }
+    .end_thank{
+        width: 60%;
+        height: auto;
+        text-align: center;
+        overflow: hidden;
+        background-size: cover;
+        margin: 10px auto -20px auto;
+    }
+    .end_thank img{
+        width: 60%;
+        height: auto;
+        text-align: center;
+        overflow: hidden;
+        background-size: cover;
+    }
 }
 @media screen and (max-width: 600px) {
     .information_1 , .information_2 , .information_3 , .information_4 , .information_5{
@@ -294,5 +309,20 @@
         margin: -4990px 0 380px 0;
         border: 1450px solid #000;
         background-attachment: fixed;
+    }
+    .end_thank{
+        width: 60%;
+        height: auto;
+        text-align: center;
+        overflow: hidden;
+        background-size: cover;
+        margin: -15px auto -20px auto;
+    }
+    .end_thank img{
+        width: 60%;
+        height: auto;
+        text-align: center;
+        overflow: hidden;
+        background-size: cover;
     }
 }
